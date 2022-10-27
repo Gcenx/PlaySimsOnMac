@@ -2,6 +2,10 @@
 A guide for playing The Sims 1 on Intel and ARM Macs
 
 
+# If the game crashes on startup
+If you're on an M1 Pro/Max MacBook Pro or other higher resolution computer and the game crashes on startup, follow the instructions CAREFULLY on [this page](https://github.com/FaithBeam/Sims-1-Complete-Collection-Widescreen-Patcher) to install the widescreen patch. Try various resolutions until it works and is at a comfortable playing resolution.
+
+
 # Step 1: Download The Sims Complete Collection and Wineskin Winery
 The first thing you need to do is download The Sims Complete Collection from [here](https://oldgamesdownload.com/the-sims-complete-collection/).
 Please keep in mind the serial number that's on that page. You'll need it later.

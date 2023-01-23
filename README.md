@@ -10,10 +10,12 @@ If you're on an M1 Pro/Max MacBook Pro or other higher resolution computer and t
 The first thing you need to do is download The Sims Complete Collection from [here](https://oldgamesdownload.com/the-sims-complete-collection/).
 Please keep in mind the serial number that's on that page. You'll need it later.
 
-Next, we'll need Wineskin Winery. To get this, we need to install Homebrew first. This is as simple as running a single command. Get it [here](https://brew.sh). Copy paste the command on that page into your terminal and then follow the instructions in you terminal. MAKE SURE that at the end of the installation process you read the instructions in your terminal about how to add homebrew to your path! It should give you three commands to run in order to add it to your path. If you run `brew` later and it says the command was not found, this is why.
+Next, we'll need Wineskin. To get this, we first need to install [homebrew](https://brew.sh/)
 
-To install Wineskin after we have homebrew we simply run
-`brew install --no-quarantine gcenx/wine/unofficial-wineskin`
+To install Wineskin Winery after we have homebrew we simply run
+```
+brew install --cask --no-quarantine gcenx/wine/unofficial-wineskin
+```
 
 # Step 2: Creating the Wineskin Wrapper
 Open Wineskin Winery. You should get a window that looks like this:

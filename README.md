@@ -13,7 +13,7 @@ Please keep in mind the serial number that's on that page. You'll need it later.
 Next, we'll need Wineskin Winery. To get this, we need to install Homebrew first. This is as simple as running a single command. Get it [here](https://brew.sh). Copy paste the command on that page into your terminal and then follow the instructions in you terminal. MAKE SURE that at the end of the installation process you read the instructions in your terminal about how to add homebrew to your path! It should give you three commands to run in order to add it to your path. If you run `brew` later and it says the command was not found, this is why.
 
 To install Wineskin after we have homebrew we simply run
-`brew install --no-quarantine gcenx/wine/unofficial-wineskin`
+`brew install --no-quarantine gcenx/wine/wineskin`
 
 # Step 2: Creating the Wineskin Wrapper
 Open Wineskin Winery. You should get a window that looks like this:
